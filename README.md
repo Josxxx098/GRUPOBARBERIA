@@ -6,7 +6,7 @@ Josemir Diaz (Lider del equipo)
 Santiago Rodriguez (Programador)
 Enrique Nahuel Farias (Diseñador Grafico)
 # User Story
-El usuario que ingresa a la página de vuelos busca una forma práctica, rápida y segura de reservar pasajes.Tambien Desea poder buscar y comparar opciones, agregar varios vuelos a un carrito de compras, realizar el pago online sin complicaciones y recibir un comprobante por correo electrónico que confirme su reserva. Para esto, valora tener una cuenta donde pueda iniciar sesión, acceder a su historial de órdenes y gestionar sus reservas fácilmente.
+El usuario que ingresa a la página de vuelos puede de una forma práctica, rápida y segura reservar pasajes.Tambien buscar y comparar opciones, agregar varios vuelos a un carrito de compras, realizar el pago online sin complicaciones y recibir un comprobante por correo electrónico que confirme su reserva. Para esto, valora tener una cuenta donde puede iniciar sesión, acceder a su historial de órdenes y gestionar sus reservas fácilmente.
 
 # Registro/Login
 ·El usuario se registra o inicia sesión en la plataforma para acceder a su cuenta y gestionar reservas.
