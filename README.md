@@ -15,6 +15,8 @@ El usuario que ingresa a la página de vuelos busca una forma práctica, rápida
  ·Se le muestran las opciones disponibles con precios, horarios y aerolíneas.
 # Selección y carrito de compras
  ·El usuario puede seleccionar uno o varios vuelos y agregarlos al carrito de compras.
+
+ 
  ·En el carrito visualiza todos los vuelos seleccionados, su precio individual y el total acumulado.
  ·Puede eliminar vuelos, o modificar pasajeros desde el carrito.
 # Proceso de pago
